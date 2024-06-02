@@ -25,7 +25,7 @@ You can play this in your console, try it out🐱
 ### Installation
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/tictactoe.git
+   git clone https://github.com/kuuronekoo/tictactoe.git
    cd tictactoe
    ```
 
