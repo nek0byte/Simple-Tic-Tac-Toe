@@ -9,8 +9,7 @@ You can play this in your console, try it out🐱
 - [Getting Started](#getting-started)
 - [How to Play](#how-to-play)
 - [Code Structure](#code-structure)
-- [License](#license)
-
+  
 ## ✨ Features
 - 👾 **Two-player mode:** Player 1 (X) and Player 2 (O)
 - 🕹️ **Automatic win and draw detection**
