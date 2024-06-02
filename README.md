@@ -26,7 +26,7 @@ You can play this in your console, try it out🐱
 1. **Clone the repository:**
    ```sh
    git clone https://github.com/kuuronekoo/Console-Based-Tic-Tac-Toe.git
-   cd tictactoe
+   cd Console-Based-Tic_Tac_Toe/
    ```
 
 2. **Compile the game:**
