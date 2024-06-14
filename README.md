@@ -1,6 +1,6 @@
-# 🎮 CLI Tic Tac Toe
+# 🎮 Tic Tac Toe (CLI)
 
-This is **CLI Tic Tac Toe** a classic game where two players take turns marking spaces in a 3x3 grid.
+This is **Tic Tac Toe** a classic game where two players take turns marking spaces in a 3x3 grid.
 
 Play this in your console🐱
 
