@@ -25,8 +25,8 @@ Play this in your console🐱
 ### Installation
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/kuuronekoo/Console-Based-Tic-Tac-Toe.git
-   cd Console-Based-Tic_Tac_Toe/
+   git clone https://github.com/kuuronekoo/Simple-Tic-Tac-Toe.git
+   cd Simple-Tic-Tac-Toe/
    ```
 
 2. **Compile the game:**
